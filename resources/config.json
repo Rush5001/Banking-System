@@ -1,0 +1,6 @@
+
+{
+    "server_port": 8080,
+    "database_path": "database/bank.db",
+    "log_level": "info"
+}
